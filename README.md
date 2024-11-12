@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Muniralhumaid
+  
 - 🌱 I’m a Business Intelligence specialist with a passion for uncovering the stories within data.
-  My journey in BI started with a curiosity about how data shapes business decisions and quickly grew into a focus on building insightful dashboards and reports that drive smarter strategies.
+      My journey in BI started with a curiosity about how data shapes business decisions
+      and quickly grew into a focus on building insightful dashboards and reports that drive smarter strategies.
 
 
 <!---
